@@ -23,3 +23,6 @@ the if block of your code will look like this:
             break
 
 curses.wrapper(main)
+
+#add name
+#kangsikwoo
