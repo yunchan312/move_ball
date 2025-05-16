@@ -1,4 +1,4 @@
-##-------- kychann --------##
+##-------- kychann, KangsikWoo, YunJ --------##
 
 1. Adding Left and Right Movement:
  - In the original code, the ball could only move up (UP) and down (DOWN).
